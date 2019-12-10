@@ -12,3 +12,5 @@
 */
 
 Route::match(['get', 'post'], '/', ['as' => 'home', 'uses' => 'frontend\HomeController@home']);
+Route::match(['get', 'post'], 'AboutUs', ['as' => 'AboutUs', 'uses' => 'frontend\AboutUsController@aboutus']);
+Route::match(['get', 'post'], 'ContactUs', ['as' => 'ContactUs', 'uses' => 'frontend\ContactUsController@ContactUs']);

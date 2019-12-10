@@ -54,18 +54,7 @@
                 </ul>
                 <!-- contact list of the page end -->
             </div>
-            <div class="col-xs-12 col-sm-6 col-md-3">
-                <h3>Newsletter Subscribe</h3>
-                <p>Subscribe to our mailing list to get the updates to your email inbox.</p>
-                <!-- subscribe form of the page -->
-                <form action="#" class="subscribe-form">
-                    <fieldset>
-                        <input type="email" class="form-control" placeholder="your email here">
-                        <button type="submit"><i class="fa fa-envelope-o"></i></button>
-                    </fieldset>
-                </form>
-                <!-- subscribe form of the page end -->
-            </div>
+        
         </div>
     </div>
     <!-- footer area of the page -->
