@@ -1,83 +1,43 @@
+@php
+$currRoute = Route::current()->getName();
+@endphp
 <!-- header of the page -->
-<div id="navbar" class="navbar navbar-light bg-light">
-    <header id="header" >
+<div id="navbar" class="navbar fixed-top navbar-light bg-light">
+    <header id="header" style="height: 00px;">
         <div class="container">
-            <div class="row">
-                <div class="col-xs-12">
-                    <!-- Top header of the page -->
-                    <div class="top-header">
-                        <!-- Align left of the page -->
-                        <ul class="list-unstyled align-left">
-                            <li>
-                                <a href="#">Languages <i class="fa fa-angle-down"></i></a>
-                                <ul class="list-unstyled drop-down">
-                                    <li><a href="#">English</a></li>
-                                    <li><a href="#">dutch</a></li>
-                                </ul>
-                            </li>
-                            <li>
-                                <a href="#">Global Site <i class="fa fa-angle-down"></i></a>
-                                <ul class="list-unstyled drop-down">
-                                    <li><a href="#">Global Site</a></li>
-                                    <li><a href="#">Global Site</a></li>
-                                </ul>
-                            </li>
-                        </ul>
-                        <!-- Align left of the page end -->
-                        <!-- Socail network of the page -->
-                        <ul class="list-unstyled socail-network">
-                            <li><a href="#"><i class="social_facebook"></i></a></li>
-                            <li><a href="#"><i class="social_googleplus"></i></a></li>
-                            <li><a href="#"><i class="social_twitter"></i></a></li>
-                            <li><a href="#"><i class="social_linkedin"></i></a></li>
-                            <li><a href="#"><i class="social_pinterest"></i></a></li>
-                        </ul>
-                        <!-- Socail network of the page end -->
-                    </div>
-                    <!-- Top header of the page end -->
-                </div>
-            </div>
             <!-- header holder of the page -->
             <div class="row header-holder">
                 <div class="col-xs-12">
                     <div class="logo text-uppercase">
                         <a href="{{route('home')}}"> 
-                            <img src="{{ asset('public/frontend/images/logo/logo.png')}}" alt="logo" style="hight: 150px; width: 150px;"</a>
+                            <img src="{{ asset('public/frontend/images/logo/logo.png')}}" alt="logo" style="hight: 120px; width: 120px;"</a>
                     </div>
                     <a href="#" class="nav-opener"><i class="fa fa-bars"></i></a>
                     <!-- Nav of the page -->
                     <nav id="nav">
-                        <ul class="list-unstyled">
-                            <li class="active">
-                                <a href="#">Home</a>
-                                <ul class="list-unstyled drop-down">
-                                    <li><a href="home.html">Homepage 1</a></li>
+                        <ul class="list-unstyled" style="padding-top: 20px">
+                            <li class="{{ ($currRoute == 'home')  ? 'active' : '' }}">
+                                <a href="{{ route('home') }}">Home</a>
+<!--                                <ul class="list-unstyled drop-down">
+                                    <li><a href="home.html" >Homepage 1</a></li>
                                     <li><a href="home2.html">Homepage 2</a></li>
                                     <li><a href="home3.html">Homepage 3</a></li>
-                                </ul>
+                                </ul>-->
                             </li>
-                            <li>
+                            <li class="{{ ($currRoute == 'international' || $currRoute == 'shipment' || $currRoute == 'break-bulk' || $currRoute == 'air-cargo' || $currRoute == '3pl' || $currRoute == 'project-cargo' || $currRoute == 'chartering' || $currRoute == 'custom-clearance')  ? 'active' : '' }}">
                                 <a href="#">SERVICES</a>
                                 <ul class="list-unstyled drop-down">
-                                    <li><a href="service.html">Services</a></li>
-                                    <li><a href="service-detail.html">Services detail</a></li>
+                                    <li><a href="{{ route('international') }}">INTERNATIONAL FREIGHT FORWARDING</a></li>
+                                    <li><a href="{{ route('shipment') }}">LCL/FCL SHIPMENTS</a></li>
+                                    <li><a href="{{ route('break-bulk') }}">BREAK BULK</a></li>
+                                    <li><a href="{{ route('air-cargo') }}">AIR CARGO</a></li>
+                                    <li><a href="{{ route('3pl') }}">3PL</a></li>
+                                    <li><a href="{{ route('project-cargo') }}">PROJECT CARGO</a></li>
+                                    <li><a href="{{ route('chartering') }}">CHARTERING</a></li>
+                                    <li><a href="{{ route('custom-clearance') }}">CUSTOM CLEARANCE</a></li>
                                 </ul>
                             </li>
                             <li><a href="{{route('AboutUs')}}">ABOUTS US</a></li>
-                            <li>
-                                <a href="#">PAGES</a>
-                                <ul class="list-unstyled drop-down">
-                                    <li><a href="404page.html">404 Page</a></li>
-                                    <li><a href="faq.html">Faq</a></li>
-                                </ul>
-                            </li>
-                            <li>
-                                <a href="#">NEWS</a>
-                                <ul class="list-unstyled drop-down">
-                                    <li><a href="blog.html">News</a></li>
-                                    <li><a href="blog-detail.html">News detail</a></li>
-                                </ul>
-                            </li>
                             <li><a href="{{route('ContactUs')}}">CONTACT</a></li>
                         </ul>
                     </nav>
