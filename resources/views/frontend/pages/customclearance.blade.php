@@ -5,7 +5,7 @@
     <!-- main slider of the page -->
     <section class="main-slider slider3">
         <!-- slide of the page -->
-        <div class="slide bg-full overlay" style="background-image: url({{ asset('public/frontend/images/img43.jpg')}})">
+        <div class="slide bg-full overlay" style="background-image: url({{ asset('public/frontend/images/custom_clearance.jpg')}})">
             <div class="holder text-center">
                 <h2 class="heading text-uppercase">CUSTOM CLEARANCE</h2>
             </div>

@@ -10,7 +10,7 @@ $currRoute = Route::current()->getName();
                 <div class="col-xs-12">
                     <div class="logo text-uppercase">
                         <a href="{{route('home')}}"> 
-                            <img src="{{ asset('public/frontend/images/logo/logo.png')}}" alt="logo" style="hight: 120px; width: 120px;"</a>
+                            <img src="{{ asset('public/frontend/images/logo/logo.png')}}" alt="logo" style="hight: 150px; width: 150px;"</a>
                     </div>
                     <a href="#" class="nav-opener"><i class="fa fa-bars"></i></a>
                     <!-- Nav of the page -->

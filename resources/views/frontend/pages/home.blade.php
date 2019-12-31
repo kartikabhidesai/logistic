@@ -5,17 +5,17 @@
     <!-- main slider of the page -->
     <section class="main-slider">
         <!-- slide of the page -->
-        <div class="slide bg-full overlay" style="background-image: url({{ asset('public/frontend/images/img01.jpg') }})">
+        <div class="slide bg-full overlay" style="background-image: url({{ asset('public/frontend/images/home.jpg') }})">
             <div class="holder">
                 <div class="container">
                     <div class="row">
                         <div class="col-xs-12">
                             <h1>We Deliver Fast International Cargo Services</h1>
                             <span class="sub-title">On Time Delivery Don't Worry Be Happy !</span>
-                            <div class="btn-holder">
+<!--                            <div class="btn-holder">
                                 <a href="#" class="btn-primary text-center text-uppercase active md-round">BUY THEME</a>
                                 <a href="#" class="btn-primary text-center text-uppercase md-round">Get a Quote</a>
-                            </div>
+                            </div>-->
                         </div>
                     </div>
                 </div>
@@ -23,17 +23,17 @@
         </div>
         <!-- slide of the page end -->
         <!-- slide of the page -->
-        <div class="slide bg-full overlay" style="background-image: url({{ asset('public/frontend/images/img14.jpg') }})">
+        <div class="slide bg-full overlay" style="background-image: url({{ asset('public/frontend/images/home_1.jpg') }})">
             <div class="holder">
                 <div class="container">
                     <div class="row">
                         <div class="col-xs-12">
-                            <h1>Worldwide Fright Forward</h1>
+                            <h1>International Freight Forward</h1>
                             <span class="sub-title">On Time Delivery Don't Worry Be Happy !</span>
-                            <div class="btn-holder">
+<!--                            <div class="btn-holder">
                                 <a href="#" class="btn-primary text-center text-uppercase active md-round">BUY THEME</a>
                                 <a href="#" class="btn-primary text-center text-uppercase md-round">Get a Quote</a>
-                            </div>
+                            </div>-->
                         </div>
                     </div>
                 </div>
@@ -41,17 +41,17 @@
         </div>
         <!-- slide of the page end -->
         <!-- slide of the page -->
-        <div class="slide bg-full overlay" style="background-image: url({{ asset('public/frontend/images/img25.jpg')}})">
+        <div class="slide bg-full overlay" style="background-image: url({{ asset('public/frontend/images/home_2.jpg')}})">
             <div class="holder">
                 <div class="container">
                     <div class="row">
                         <div class="col-xs-12">
                             <h1>Fast &amp; Safe Transport</h1>
                             <span class="sub-title">On Time Delivery Don't Worry Be Happy !</span>
-                            <div class="btn-holder">
+<!--                            <div class="btn-holder">
                                 <a href="#" class="btn-primary text-center text-uppercase active md-round">BUY THEME</a>
                                 <a href="#" class="btn-primary text-center text-uppercase md-round">Get a Quote</a>
-                            </div>
+                            </div>-->
                         </div>
                     </div>
                 </div>
@@ -71,21 +71,65 @@
             <div class="col-xs-12 col-sm-4">
                 <div class="icon"><img src="{{ asset('public/frontend/images/icon01.png') }}" alt="Icon" class="img-responsive"></div>
                 <div class="txt-holder">
-                    <h3 class="heading2">Solutions</h3>
+                    <h3 class="heading2">INTERNATIONAL FREIGHT FORWARDING</h3>
                     <p>The importance of a well-managed and flexible supply chain is all the more obvious when companies see the results on their bottom line. More than just managing tracking and visibility.</p>
                 </div>
             </div>
             <div class="col-xs-12 col-sm-4">
                 <div class="icon"><img src="{{ asset('public/frontend/images/icon02.png') }}" alt="Icon" class="img-responsive"></div>
                 <div class="txt-holder">
-                    <h3 class="heading2">Transportation Services</h3>
+                    <h3 class="heading2">LCL/FCL SHIPMENTS</h3>
                     <p>Companies need to be sure that their transportation providers can offer the network, flexibility, and service level quality that ensures they can meet the demands of their customers.</p>
                 </div>
             </div>
             <div class="col-xs-12 col-sm-4">
                 <div class="icon"><img src="{{ asset('public/frontend/images/icon03.png') }}" alt="Icon" class="img-responsive"></div>
                 <div class="txt-holder">
-                    <h3 class="heading2">Warehousing &amp; Distribution</h3>
+                    <h3 class="heading2">BREAK BULK</h3>
+                    <p>Picking a service provider to manage your contract logistics services is key to the success of your inventory management and supply chain. </p>
+                </div>
+            </div>
+        </div>
+    </section>
+    <section class="service-sec container" style="padding-top: 0px;">
+        <div class="row">
+            <div class="col-xs-12 col-sm-4">
+                <div class="icon"><img src="{{ asset('public/frontend/images/icon01.png') }}" alt="Icon" class="img-responsive"></div>
+                <div class="txt-holder">
+                    <h3 class="heading2">AIR CARGO</h3>
+                    <p>The importance of a well-managed and flexible supply chain is all the more obvious when companies see the results on their bottom line. More than just managing tracking and visibility.</p>
+                </div>
+            </div>
+            <div class="col-xs-12 col-sm-4">
+                <div class="icon"><img src="{{ asset('public/frontend/images/icon02.png') }}" alt="Icon" class="img-responsive"></div>
+                <div class="txt-holder">
+                    <h3 class="heading2">3PL</h3>
+                    <p>Companies need to be sure that their transportation providers can offer the network, flexibility, and service level quality that ensures they can meet the demands of their customers.</p>
+                </div>
+            </div>
+            <div class="col-xs-12 col-sm-4">
+                <div class="icon"><img src="{{ asset('public/frontend/images/icon03.png') }}" alt="Icon" class="img-responsive"></div>
+                <div class="txt-holder">
+                    <h3 class="heading2">PROJECT CARGO</h3>
+                    <p>Picking a service provider to manage your contract logistics services is key to the success of your inventory management and supply chain. </p>
+                </div>
+            </div>
+        </div>
+    </section>
+    <section class="service-sec container" style="padding-top: 0px;">
+        <div class="row">
+            <div class="col-xs-12 col-sm-2"></div>
+            <div class="col-xs-12 col-sm-4">
+                <div class="icon"><img src="{{ asset('public/frontend/images/icon01.png') }}" alt="Icon" class="img-responsive"></div>
+                <div class="txt-holder">
+                    <h3 class="heading2">CHARTERING</h3>
+                    <p>The importance of a well-managed and flexible supply chain is all the more obvious when companies see the results on their bottom line. More than just managing tracking and visibility.</p>
+                </div>
+            </div>
+            <div class="col-xs-12 col-sm-4">
+                <div class="icon"><img src="{{ asset('public/frontend/images/icon03.png') }}" alt="Icon" class="img-responsive"></div>
+                <div class="txt-holder">
+                    <h3 class="heading2">CUSTOM CLEARANCE</h3>
                     <p>Picking a service provider to manage your contract logistics services is key to the success of your inventory management and supply chain. </p>
                 </div>
             </div>

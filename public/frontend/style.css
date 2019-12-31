@@ -3070,7 +3070,7 @@ a:hover, a:focus, a.active {
 
 #footer .f-nav li {
   overflow: hidden;
-  margin: 0 0 6px;
+  margin: 0 0 0px;
 }
 
 #footer .f-nav a {

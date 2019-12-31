@@ -5,7 +5,7 @@
     <!-- main slider of the page -->
     <section class="main-slider slider3">
         <!-- slide of the page -->
-        <div class="slide bg-full overlay" style="background-image: url({{ asset('public/frontend/images/img43.jpg')}})">
+        <div class="slide bg-full overlay" style="background-image: url({{ asset('public/frontend/images/img11.jpg')}})">
             <div class="holder text-center">
                 <h2 class="heading text-uppercase">3PL</h2>
             </div>

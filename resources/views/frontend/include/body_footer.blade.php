@@ -4,6 +4,9 @@
     <div class="footer-holder container">
         <div class="row">
             <div class="col-xs-12 col-sm-6 col-md-3">
+                <img src="{{ asset('public/frontend/images/logo/logo.png')}}" alt="logo" style="hight: 300px; width: 250px;padding-top: 50px;padding-bottom: 25px"</a>
+            </div>
+            <div class="col-xs-12 col-sm-6 col-md-3">
                 <h3>About us</h3>
                 <p>Loruis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidant explidolor sit amet, consectetur, adipisci velit, oluptatem.</p>
                 <!-- Socail network of the page -->
@@ -20,12 +23,14 @@
                 <h3 class="mar">Our Services</h3>
                 <!-- f nav of the page -->
                 <ul class="list-unstyled f-nav">
-                    <li><a href="#">Ocean Freight</a></li>
-                    <li><a href="#">Sky Freight</a></li>
-                    <li><a href="#">Cargo Express</a></li>
-                    <li><a href="#">Logistics</a></li>
-                    <li><a href="#">Warehousing</a></li>
-                    <li><a href="#">Custom Brokerage</a></li>
+                    <li><a href="{{ route('international') }}">International Freight Forwarding</a></li>
+                    <li><a href="{{ route('shipment') }}">LCL / FCL Shipment</a></li>
+                    <li><a href="{{ route('break-bulk') }}">Break Bulk</a></li>
+                    <li><a href="{{ route('air-cargo') }}">Air Cargo</a></li>
+                    <li><a href="{{ route('3pl') }}">3PL</a></li>
+                    <li><a href="{{ route('project-cargo') }}">Project Cargo</a></li>
+                    <li><a href="{{ route('chartering') }}">Chartering</a></li>
+                    <li><a href="{{ route('custom-clearance') }}">Custom Clearance</a></li>
                 </ul>
                 <!-- f nav of the page end -->
             </div>
@@ -62,7 +67,7 @@
         <div class="container">
             <div class="row">
                 <div class="col-xs-12 text-center">
-                    <p>Copyrights © 2017 All Rights Reserved.</p>
+                    <p>Copyrights © {{ date('Y') }} Leo Global Logistic. All Rights Reserved.</p>
                 </div>
             </div>
         </div>
