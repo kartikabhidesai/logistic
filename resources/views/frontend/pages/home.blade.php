@@ -12,10 +12,10 @@
                         <div class="col-xs-12">
                             <h1>We Deliver Fast International Cargo Services</h1>
                             <span class="sub-title">On Time Delivery Don't Worry Be Happy !</span>
-<!--                            <div class="btn-holder">
-                                <a href="#" class="btn-primary text-center text-uppercase active md-round">BUY THEME</a>
-                                <a href="#" class="btn-primary text-center text-uppercase md-round">Get a Quote</a>
-                            </div>-->
+                            <!--                            <div class="btn-holder">
+                                                            <a href="#" class="btn-primary text-center text-uppercase active md-round">BUY THEME</a>
+                                                            <a href="#" class="btn-primary text-center text-uppercase md-round">Get a Quote</a>
+                                                        </div>-->
                         </div>
                     </div>
                 </div>
@@ -30,10 +30,10 @@
                         <div class="col-xs-12">
                             <h1>International Freight Forward</h1>
                             <span class="sub-title">On Time Delivery Don't Worry Be Happy !</span>
-<!--                            <div class="btn-holder">
-                                <a href="#" class="btn-primary text-center text-uppercase active md-round">BUY THEME</a>
-                                <a href="#" class="btn-primary text-center text-uppercase md-round">Get a Quote</a>
-                            </div>-->
+                            <!--                            <div class="btn-holder">
+                                                            <a href="#" class="btn-primary text-center text-uppercase active md-round">BUY THEME</a>
+                                                            <a href="#" class="btn-primary text-center text-uppercase md-round">Get a Quote</a>
+                                                        </div>-->
                         </div>
                     </div>
                 </div>
@@ -48,10 +48,10 @@
                         <div class="col-xs-12">
                             <h1>Fast &amp; Safe Transport</h1>
                             <span class="sub-title">On Time Delivery Don't Worry Be Happy !</span>
-<!--                            <div class="btn-holder">
-                                <a href="#" class="btn-primary text-center text-uppercase active md-round">BUY THEME</a>
-                                <a href="#" class="btn-primary text-center text-uppercase md-round">Get a Quote</a>
-                            </div>-->
+                            <!--                            <div class="btn-holder">
+                                                            <a href="#" class="btn-primary text-center text-uppercase active md-round">BUY THEME</a>
+                                                            <a href="#" class="btn-primary text-center text-uppercase md-round">Get a Quote</a>
+                                                        </div>-->
                         </div>
                     </div>
                 </div>
@@ -150,18 +150,18 @@
                         <!--<a href="about.html" class="more">Find out more</a>-->
                     </div>
                 </div>
-<!--                <div class="col-xs-12 col-sm-5 col-md-4">
-                    <div class="track-holder bg-full" style="background-image: url({{ asset('public/frontend/images/img03.jpg') }})">
-                        <form action="#" class="track-form">
-                            <fieldset>
-                                <label for="text">AWB No./BL No./Container No.</label>
-                                <input type="text" id="text" class="form-control md-round" placeholder="Insert trucking number here">
-                                <p>Please enter (House) Air Waybill No., B/L No., or Container No. For optional search using your Customer Account No., please click <a href="#">here</a>.</p>
-                                <button type="submit" class="btn-primary text-center text-uppercase md-round">TRACK IT</button>
-                            </fieldset>
-                        </form>
-                    </div>
-                </div>-->
+                <!--                <div class="col-xs-12 col-sm-5 col-md-4">
+                                    <div class="track-holder bg-full" style="background-image: url({{ asset('public/frontend/images/img03.jpg') }})">
+                                        <form action="#" class="track-form">
+                                            <fieldset>
+                                                <label for="text">AWB No./BL No./Container No.</label>
+                                                <input type="text" id="text" class="form-control md-round" placeholder="Insert trucking number here">
+                                                <p>Please enter (House) Air Waybill No., B/L No., or Container No. For optional search using your Customer Account No., please click <a href="#">here</a>.</p>
+                                                <button type="submit" class="btn-primary text-center text-uppercase md-round">TRACK IT</button>
+                                            </fieldset>
+                                        </form>
+                                    </div>
+                                </div>-->
             </div>
         </div>
     </section>
@@ -260,50 +260,50 @@
     </section>-->
     <!-- Call to action of the page end -->
     <!-- Counter holder of the page -->
-<!--    <div class="counter-holder bg-full" style="background-image: url({{ asset('public/frontend/images/img09.jpg') }})">
-        <div class="container">
-            <div class="row">
-                <div class="col-xs-12 col-sm-6 counter-block">
-                    <span class="icon"><img src="{{ asset('public/frontend/images/icon04.png') }}" alt="icon" class="img-responsive"></span>
-                    <div class="txt-holder">
-                        <span class="counter">7900</span>
-                        <span class="sub-title">EMPLOYEES ALL OVER THE WORLD</span>
+    <!--    <div class="counter-holder bg-full" style="background-image: url({{ asset('public/frontend/images/img09.jpg') }})">
+            <div class="container">
+                <div class="row">
+                    <div class="col-xs-12 col-sm-6 counter-block">
+                        <span class="icon"><img src="{{ asset('public/frontend/images/icon04.png') }}" alt="icon" class="img-responsive"></span>
+                        <div class="txt-holder">
+                            <span class="counter">7900</span>
+                            <span class="sub-title">EMPLOYEES ALL OVER THE WORLD</span>
+                        </div>
+                    </div>
+                    <div class="col-xs-12 col-sm-6 counter-block">
+                        <span class="icon"><img src="{{ asset('public/frontend/images/icon05.png') }}" alt="icon" class="img-responsive"></span>
+                        <div class="txt-holder">
+                            <span class="counter">300</span>
+                            <span class="sub-title">FEET SIZE</span>
+                        </div>
                     </div>
                 </div>
-                <div class="col-xs-12 col-sm-6 counter-block">
-                    <span class="icon"><img src="{{ asset('public/frontend/images/icon05.png') }}" alt="icon" class="img-responsive"></span>
-                    <div class="txt-holder">
-                        <span class="counter">300</span>
-                        <span class="sub-title">FEET SIZE</span>
+                <div class="row">
+                    <div class="col-xs-12 col-sm-6 counter-block">
+                        <span class="icon"><img src="{{ asset('public/frontend/images/icon06.png') }}" alt="icon" class="img-responsive"></span>
+                        <div class="txt-holder">
+                            <span class="counter">700</span>
+                            <span class="sub-title">KILOMETERS PER YEAR</span>
+                        </div>
+                    </div>
+                    <div class="col-xs-12 col-sm-6 counter-block">
+                        <span class="icon"><img src="{{ asset('public/frontend/images/icon07.png') }}" alt="icon" class="img-responsive"></span>
+                        <div class="txt-holder">
+                            <span class="counter">451</span>
+                            <span class="sub-title">CLIENTS WORLDWIDE</span>
+                        </div>
                     </div>
                 </div>
             </div>
-            <div class="row">
-                <div class="col-xs-12 col-sm-6 counter-block">
-                    <span class="icon"><img src="{{ asset('public/frontend/images/icon06.png') }}" alt="icon" class="img-responsive"></span>
-                    <div class="txt-holder">
-                        <span class="counter">700</span>
-                        <span class="sub-title">KILOMETERS PER YEAR</span>
-                    </div>
-                </div>
-                <div class="col-xs-12 col-sm-6 counter-block">
-                    <span class="icon"><img src="{{ asset('public/frontend/images/icon07.png') }}" alt="icon" class="img-responsive"></span>
-                    <div class="txt-holder">
-                        <span class="counter">451</span>
-                        <span class="sub-title">CLIENTS WORLDWIDE</span>
-                    </div>
-                </div>
-            </div>
-        </div>
-    </div>-->
+        </div>-->
     <!-- Counter holder of the page end -->
     <!-- Contact sec of the page -->
-    <div class="contact-sec container">
+<!--    <div class="contact-sec container">
         <div class="row">
             <div class="col-xs-12 col-sm-6 col-md-6">
-                <!-- quote block of the page -->
+                quote block of the page 
                 <div class="quote-block bg-full" style="background-image: url({{ asset('public/frontend/images/img10.jpg') }})">
-                    <form action="#" class="quote-form">
+                    <form class="quote-form" method='post'>
                         <fieldset>
                             <h2 class="text-uppercase">REQUEST A QUICK QUOTE</h2>
                             <div class="form-group">
@@ -353,10 +353,10 @@
                         </fieldset>
                     </form>
                 </div>
-                <!-- quote block of the page end -->
+                quote block of the page end 
             </div>
             <div class="col-xs-12 col-sm-6 col-md-5 col-md-offset-1">
-                <!-- Contact list of the page -->
+                 Contact list of the page 
                 <ul class="list-unstyled contact-list">
                     <li>
                         <span class="icon"><i class="ti-alarm-clock"></i></span>
@@ -383,19 +383,19 @@
                         </div>
                     </li>
                 </ul>
-                <!-- Contact list of the page end -->
+                 Contact list of the page end 
             </div>
         </div>
-    </div>
+    </div>-->
     <!-- Contact sec of the page end -->
     <!-- Testimonail sec of the page -->
-    <div class="testimonail-sec bg-full overlay" style="background-image: url({{ asset('public/frontend/images/img11.jpg')}});">
+<!--    <div class="testimonail-sec bg-full overlay" style="background-image: url({{ asset('public/frontend/images/img11.jpg')}});">
         <div class="container">
             <div class="row">
                 <div class="col-xs-12">
-                    <!-- Testimonail Slider of the page -->
+                     Testimonail Slider of the page 
                     <div class="testimonail-slider">
-                        <!-- Slide of the page -->
+                         Slide of the page 
                         <blockquote class="slide text-center">
                             <div class="img-holder round"><img src="{{ asset('public/frontend/images/img12.jpg') }}" alt="image description" class="img-responsive"></div>
                             <q>“ Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna is <br class="hidden-sm">nostrud exerco laboquip exmmodo consequat. Duis arud exercitatioute irure dolore eu fugiat nulla pariatur ”</q>
@@ -404,8 +404,8 @@
                                 <span>Transporter</span>
                             </cite>
                         </blockquote>
-                        <!-- Slide of the page end -->
-                        <!-- Slide of the page -->
+                         Slide of the page end 
+                         Slide of the page 
                         <blockquote class="slide text-center">
                             <div class="img-holder round"><img src="{{ asset('public/frontend/images/img23.jpg') }}" alt="image description" class="img-responsive"></div>
                             <q>“ Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna is <br class="hidden-sm">nostrud exerco laboquip exmmodo consequat. Duis arud exercitatioute irure dolore eu fugiat nulla pariatur ”</q>
@@ -414,8 +414,8 @@
                                 <span>Transporter</span>
                             </cite>
                         </blockquote>
-                        <!-- Slide of the page end -->
-                        <!-- Slide of the page -->
+                         Slide of the page end 
+                         Slide of the page 
                         <blockquote class="slide text-center">
                             <div class="img-holder round"><img src="{{ asset('public/frontend/images/img28.jpg') }}" alt="image description" class="img-responsive"></div>
                             <q>“ Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna is <br class="hidden-sm">nostrud exerco laboquip exmmodo consequat. Duis arud exercitatioute irure dolore eu fugiat nulla pariatur ”</q>
@@ -424,19 +424,19 @@
                                 <span>Transporter</span>
                             </cite>
                         </blockquote>
-                        <!-- Slide of the page end -->
+                         Slide of the page end 
                     </div>
-                    <!-- Testimonail Slider of the page end -->
+                     Testimonail Slider of the page end 
                 </div>
             </div>
         </div>
-    </div>
+    </div>-->
     <!-- Testimonail sec of the page end -->
     <!-- client sec of the page -->
-    <div class="client-sec container">
+<!--    <div class="client-sec container">
         <div class="row">
             <div class="col-xs-12 line-box">
-                <!-- client logo of the page -->
+                 client logo of the page 
                 <ul class="list-unstyled client-logo line">
                     <li><a href="#"><img src="{{ asset('public/frontend/images/logo01.png') }}" alt="logo" class="img-responsive"></a></li>
                     <li><a href="#"><img src="{{ asset('public/frontend/images/logo02.png') }}" alt="logo" class="img-responsive"></a></li>
@@ -445,10 +445,10 @@
                     <li><a href="#"><img src="{{ asset('public/frontend/images/logo05.png') }}" alt="logo" class="img-responsive"></a></li>
                     <li><a href="#"><img src="{{ asset('public/frontend/images/logo01.png') }}" alt="logo" class="img-responsive"></a></li>
                 </ul>
-                <!-- client logo of the page end -->
+                 client logo of the page end 
             </div>
         </div>
-    </div>
+    </div>-->
     <!-- client sec of the page end -->
 </main>
 <!-- main of the page end -->

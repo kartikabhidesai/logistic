@@ -71,6 +71,14 @@
                                 <input type="email" class="form-control" id="email" name="email" placeholder="Your Email">
                             </div>
                         </div>
+                        <div class="form-group">
+                            <div class="col">
+                                <input type="text" class="form-control" id="company" name="company" placeholder="Your Company Name">
+                            </div>
+                            <div class="col">
+                                <input type="text" class="form-control" id="mobile" name="mobile" placeholder="Your Mobile">
+                            </div>
+                        </div>
                         <textarea class="form-control" id="msg" name="msg" placeholder="Your Message"></textarea>
                         <button type="submit" class="btn-primary text-uppercase text-center md-round">Send us</button>
                     </fieldset>

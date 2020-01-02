@@ -37,8 +37,8 @@ $currRoute = Route::current()->getName();
                                     <li><a href="{{ route('custom-clearance') }}">CUSTOM CLEARANCE</a></li>
                                 </ul>
                             </li>
-                            <li><a href="{{route('aboutus')}}">ABOUTS US</a></li>
-                            <li><a href="{{route('contactus')}}">CONTACT</a></li>
+                            <li class="{{ ($currRoute == 'aboutus')  ? 'active' : '' }}"><a href="{{route('aboutus')}}">ABOUTS US</a></li>
+                            <li class="{{ ($currRoute == 'contactus')  ? 'active' : '' }}"><a href="{{route('contactus')}}">CONTACT</a></li>
                         </ul>
                     </nav>
                     <!-- Nav of the page end -->

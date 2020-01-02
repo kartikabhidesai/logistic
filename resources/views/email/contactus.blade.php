@@ -77,6 +77,8 @@ div[style*="margin: 16px 0;"] { margin: 0 !important; }
 
                            	Name: {{ $data['name'] }}<br><br>
                            	Email: {{ $data['email'] }}<br><br>
+                           	Company: {{ $data['company'] }}<br><br>
+                           	Mobile: {{ $data['mobile'] }}<br><br>
                            	Messege: {{ $data['msg'] }}<br><br>
                            
                             Thanks, <br>
