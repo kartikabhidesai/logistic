@@ -42,11 +42,13 @@
             <div class="col-xs-12 col-sm-8 col-md-9 col-lg-8 col-lg-offset-1">
                 <h1 style="font-family: serif ">3PL</h1>
                 <div class="img-holder">
-                    <img src="{{  url('public/frontend/images/img33.jpg') }}" alt="image description" class="img-responsive">
+                    <img style="height: 400px;width: 770px;" src="{{  url('public/frontend/images/3pl_in.png') }}" alt="image description" class="img-responsive">
                 </div>
-                <h2>Our strategic alliances around the globe give you the flexibility to choose from a range of air freight service options.</h2>
-                <p>Enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. </p>
-                <p>Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum. Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo. Nemo enim ipsam voluptatem quia voluptas sit aspernatur aut odit aut fugit, sed quia consequuntur magni dolores eos qui ratione voluptatem sequi nesciunt. Neque porro quisquam est, qui dolorem ipsum quia dolor sit amet, consectetur, adipisci velit, sed quia non numquam eius modi tempora incidunt ut labore et dolore magnam aliquam quaerat voluptatem.</p>
+                <h2>Leo Global Logistic AS Third party logistics providers typically specialize in integrated operation, warehousing and transportation services which can be scaled and customized to customer, companies and client's, needs based on market conditions, such as the demands and delivery service requirements for their products and materials. Leo Global Logistic provides supply chain solutions that deliver the greatest return on investment for your products.</h2>
+                <p><i class="fa fa-check" aria-hidden="true"></i>&nbsp;&nbsp;Product packaging, postponement and kitting and assembly combined with distribution operations.</p>
+                <p><i class="fa fa-check" aria-hidden="true"></i>&nbsp;&nbsp;Warehouse design and management and distribution services in both dedicated and shared, multi-customer environments.</p>
+                <p><i class="fa fa-check" aria-hidden="true"></i>&nbsp;&nbsp;Complete managed transportation services, as well as parcel, supply chain engineering and freight solutions.</p>
+                <p><i class="fa fa-check" aria-hidden="true"></i>&nbsp;&nbsp;Management of the reverse flow of product, information and cash, including value-added services such as test, repair and refurbishment; product recall management; and recycling services.</p>
             </div>
         </div>
     </section>

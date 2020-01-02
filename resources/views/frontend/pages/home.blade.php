@@ -69,24 +69,26 @@
         </div>
         <div class="row">
             <div class="col-xs-12 col-sm-4">
-                <div class="icon"><img src="{{ asset('public/frontend/images/icon01.png') }}" alt="Icon" class="img-responsive"></div>
+                <div class="icon"><img src="{{ asset('public/frontend/images/INTERNATIONAL_FREIGHT_FORWARDING_small.png') }}" alt="Icon" class="img-responsive"></div>
                 <div class="txt-holder">
                     <h3 class="heading2">INTERNATIONAL FREIGHT FORWARDING</h3>
-                    <p>The importance of a well-managed and flexible supply chain is all the more obvious when companies see the results on their bottom line. More than just managing tracking and visibility.</p>
+                    <p>We handle International freight forwarding with the collaboration of important shipping companies with whom we uphold agreements and business relationships.</p>
                 </div>
             </div>
             <div class="col-xs-12 col-sm-4">
-                <div class="icon"><img src="{{ asset('public/frontend/images/icon02.png') }}" alt="Icon" class="img-responsive"></div>
+                <div class="icon"><img src="{{ asset('public/frontend/images/LCL_FCL_SHIPMENTS_small.png') }}" alt="Icon" class="img-responsive"></div>
                 <div class="txt-holder">
                     <h3 class="heading2">LCL/FCL SHIPMENTS</h3>
-                    <p>Companies need to be sure that their transportation providers can offer the network, flexibility, and service level quality that ensures they can meet the demands of their customers.</p>
+                    <p>FCL = Full Container Load.</p>
+                    <p>LCL = Less than Container Load.</p>
+                    <p>you can choose FCL, or LCL if your overall cargo volume does not meet one full container requirements.</p>
                 </div>
             </div>
             <div class="col-xs-12 col-sm-4">
-                <div class="icon"><img src="{{ asset('public/frontend/images/icon03.png') }}" alt="Icon" class="img-responsive"></div>
+                <div class="icon"><img src="{{ asset('public/frontend/images/BREAK_BULK_small.png') }}" alt="Icon" class="img-responsive"></div>
                 <div class="txt-holder">
                     <h3 class="heading2">BREAK BULK</h3>
-                    <p>Picking a service provider to manage your contract logistics services is key to the success of your inventory management and supply chain. </p>
+                    <p>we do work very closely with many associated brokers in fixing cargoes and vessels. With our team is able to provide ideal match between cargo and right kind of vessel.</p>
                 </div>
             </div>
         </div>
@@ -94,24 +96,24 @@
     <section class="service-sec container" style="padding-top: 0px;">
         <div class="row">
             <div class="col-xs-12 col-sm-4">
-                <div class="icon"><img src="{{ asset('public/frontend/images/icon01.png') }}" alt="Icon" class="img-responsive"></div>
+                <div class="icon"><img src="{{ asset('public/frontend/images/AIR_CARGO_small.png') }}" alt="Icon" class="img-responsive"></div>
                 <div class="txt-holder">
                     <h3 class="heading2">AIR CARGO</h3>
-                    <p>The importance of a well-managed and flexible supply chain is all the more obvious when companies see the results on their bottom line. More than just managing tracking and visibility.</p>
+                    <p>Leo global Logistics specialized in providing value added international air freight forwarding services to companies large and small. Partnership with major airlines to offer lowest price and best transit time.</p>
                 </div>
             </div>
             <div class="col-xs-12 col-sm-4">
-                <div class="icon"><img src="{{ asset('public/frontend/images/icon02.png') }}" alt="Icon" class="img-responsive"></div>
+                <div class="icon"><img src="{{ asset('public/frontend/images/3PL_small.png') }}" alt="Icon" class="img-responsive"></div>
                 <div class="txt-holder">
                     <h3 class="heading2">3PL</h3>
-                    <p>Companies need to be sure that their transportation providers can offer the network, flexibility, and service level quality that ensures they can meet the demands of their customers.</p>
+                    <p>Leo Global Logistic AS Third party logistics providers typically specialize in integrated operation, warehousing and transportation services which can be scaled and customized to customer and companies.</p>
                 </div>
             </div>
             <div class="col-xs-12 col-sm-4">
-                <div class="icon"><img src="{{ asset('public/frontend/images/icon03.png') }}" alt="Icon" class="img-responsive"></div>
+                <div class="icon"><img src="{{ asset('public/frontend/images/PROJECT_CARGO_small.png') }}" alt="Icon" class="img-responsive"></div>
                 <div class="txt-holder">
                     <h3 class="heading2">PROJECT CARGO</h3>
-                    <p>Picking a service provider to manage your contract logistics services is key to the success of your inventory management and supply chain. </p>
+                    <p>Managing heavy lift projects requires special expertise, care and detailing. We have built a formidable reputation in Project Cargo Logistics and heavy lift shipments with our dedicated operations team.</p>
                 </div>
             </div>
         </div>
@@ -120,17 +122,17 @@
         <div class="row">
             <div class="col-xs-12 col-sm-2"></div>
             <div class="col-xs-12 col-sm-4">
-                <div class="icon"><img src="{{ asset('public/frontend/images/icon01.png') }}" alt="Icon" class="img-responsive"></div>
+                <div class="icon"><img src="{{ asset('public/frontend/images/CHARTERING_small.png') }}" alt="Icon" class="img-responsive"></div>
                 <div class="txt-holder">
                     <h3 class="heading2">CHARTERING</h3>
-                    <p>The importance of a well-managed and flexible supply chain is all the more obvious when companies see the results on their bottom line. More than just managing tracking and visibility.</p>
+                    <p>Where customers transportation requirements exceed the limitations of containerized transport we provide tailor-made solutions through our global chartering team.</p>
                 </div>
             </div>
             <div class="col-xs-12 col-sm-4">
-                <div class="icon"><img src="{{ asset('public/frontend/images/icon03.png') }}" alt="Icon" class="img-responsive"></div>
+                <div class="icon"><img src="{{ asset('public/frontend/images/CUSTOM_CLEARANCE_small.png') }}" alt="Icon" class="img-responsive"></div>
                 <div class="txt-holder">
                     <h3 class="heading2">CUSTOM CLEARANCE</h3>
-                    <p>Picking a service provider to manage your contract logistics services is key to the success of your inventory management and supply chain. </p>
+                    <p>Our expert team is competent to handle all aspects of customs processes, including: import / export clearance, declarations, Performa invoices and certificates of origin. Import and export customs clearance.</p>
                 </div>
             </div>
         </div>

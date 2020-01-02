@@ -61,17 +61,17 @@
                 <h3 class="marg">Get In Touch With Us</h3>
                 <p>If you have any question, Please don’t hesitate to send us a message</p>
                 <!-- Contact Form of the page -->
-                <form action="#" class="contact-form">
+                <form id="contactus" method="post" name="contactus" class="contact-form">@csrf
                     <fieldset>
                         <div class="form-group">
                             <div class="col">
-                                <input type="text" class="form-control" placeholder="Your Name">
+                                <input type="text" class="form-control" id="name" name="name" placeholder="Your Name">
                             </div>
                             <div class="col">
-                                <input type="email" class="form-control" placeholder="Your Email">
+                                <input type="email" class="form-control" id="email" name="email" placeholder="Your Email">
                             </div>
                         </div>
-                        <textarea class="form-control" placeholder="Your Message"></textarea>
+                        <textarea class="form-control" id="msg" name="msg" placeholder="Your Message"></textarea>
                         <button type="submit" class="btn-primary text-uppercase text-center md-round">Send us</button>
                     </fieldset>
                 </form>
@@ -80,11 +80,10 @@
     </section>
     <!-- contact sec of the page end -->
     <!-- map sec of the page -->
-    <section class="map-sec">
-        <div class="map" data-lat="52.392363" data-lng="1.480408" data-zoom="8">
-            <div class="map-info">
-                <h2 class="text-uppercase">AMLOGISTICS</h2>
-                <address>31 Ven Ho Van Chuong Street, <br>Ha Noi City, Viet Nam</address>
+    <section class="">
+        <div class="" >
+            <div class="">
+                <iframe style="width: 100%;" src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3672.3279247881283!2d72.521100014442!3d23.011728822509056!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x395e85d10985e8e9%3A0x414d09be4caf2ec9!2sTitanium%20City%20Center%20(A%20To%20H%20Block)!5e0!3m2!1sen!2sin!4v1577785861176!5m2!1sen!2sin" width="600" height="450" frameborder="0" style="border:0;" allowfullscreen=""></iframe>
             </div>
         </div>
     </section>

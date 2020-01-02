@@ -42,11 +42,14 @@
             <div class="col-xs-12 col-sm-8 col-md-9 col-lg-8 col-lg-offset-1">
                 <h1 style="font-family: serif ">INTERNATIONAL FREIGHT FORWARDING</h1>
                 <div class="img-holder">
-                    <img src="{{  url('public/frontend/images/img33.jpg') }}" alt="image description" class="img-responsive">
+                    <img style="height: 400px;width: 770px;" src="{{  url('public/frontend/images/INTERNATIONAL_FREIGHT_FORWARDING.jpg') }}" alt="image description" class="img-responsive">
                 </div>
-                <h2>Our strategic alliances around the globe give you the flexibility to choose from a range of air freight service options.</h2>
-                <p>Enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. </p>
-                <p>Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum. Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo. Nemo enim ipsam voluptatem quia voluptas sit aspernatur aut odit aut fugit, sed quia consequuntur magni dolores eos qui ratione voluptatem sequi nesciunt. Neque porro quisquam est, qui dolorem ipsum quia dolor sit amet, consectetur, adipisci velit, sed quia non numquam eius modi tempora incidunt ut labore et dolore magnam aliquam quaerat voluptatem.</p>
+                <h2>We handle international freight with the collaboration of important shipping companies with whom we uphold agreements and business relationships.</h2>
+                <p><i class="fa fa-check" aria-hidden="true"></i>&nbsp;&nbsp;Excellent relationships with shipping lines to achieve priority loading of FCL.</p>
+                <p><i class="fa fa-check" aria-hidden="true"></i>&nbsp;&nbsp;Range of services that cover every aspect of supply chain solution.</p>
+                <p><i class="fa fa-check" aria-hidden="true"></i>&nbsp;&nbsp;Ability to offer customized solutions based on individual customer requirements.</p>
+                <p><i class="fa fa-check" aria-hidden="true"></i>&nbsp;&nbsp;Global network of partners to deliver custom made solution to the client base.</p>
+                <p><i class="fa fa-check" aria-hidden="true"></i>&nbsp;&nbsp;Door to Door Service.</p>
             </div>
         </div>
     </section>

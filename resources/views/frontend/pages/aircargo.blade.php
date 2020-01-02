@@ -42,11 +42,13 @@
             <div class="col-xs-12 col-sm-8 col-md-9 col-lg-8 col-lg-offset-1">
                 <h1 style="font-family: serif ">AIR CARGO</h1>
                 <div class="img-holder">
-                    <img src="{{  url('public/frontend/images/img33.jpg') }}" alt="image description" class="img-responsive">
+                    <img style="height: 400px;width: 770px;" src="{{  url('public/frontend/images/air_cargo_in.png') }}" alt="image description" class="img-responsive">
                 </div>
-                <h2>Our strategic alliances around the globe give you the flexibility to choose from a range of air freight service options.</h2>
-                <p>Enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. </p>
-                <p>Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum. Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo. Nemo enim ipsam voluptatem quia voluptas sit aspernatur aut odit aut fugit, sed quia consequuntur magni dolores eos qui ratione voluptatem sequi nesciunt. Neque porro quisquam est, qui dolorem ipsum quia dolor sit amet, consectetur, adipisci velit, sed quia non numquam eius modi tempora incidunt ut labore et dolore magnam aliquam quaerat voluptatem.</p>
+                <h2>Leo Global Logistic is specialized in providing value added international Air Cargo services to companies large and small.</h2>
+                <p><i class="fa fa-check" aria-hidden="true"></i>&nbsp;&nbsp;Offers door to door service.</p>
+                <p><i class="fa fa-check" aria-hidden="true"></i>&nbsp;&nbsp;Network agents in all around the world.</p>
+                <p><i class="fa fa-check" aria-hidden="true"></i>&nbsp;&nbsp;Partnership with major airlines to offer lowest price, best transit time and fixed allocations.</p>
+                <p><i class="fa fa-check" aria-hidden="true"></i>&nbsp;&nbsp;Documentation specialists.</p>
             </div>
         </div>
     </section>

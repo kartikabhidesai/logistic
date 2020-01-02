@@ -17,8 +17,8 @@ class BreakserviceController extends Controller {
         $data['css'] = array();
         $data['plugincss'] = array();
         $data['js'] = array();
-        $data['funinit'] = array();
         $data['pluginjs'] = array();
+        $data['funinit'] = array();
         return view('frontend.pages.breakbulk', $data);
     }
 

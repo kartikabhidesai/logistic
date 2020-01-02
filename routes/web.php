@@ -11,14 +11,17 @@
 |
 */
 
+//Test Mail
+Route::match(['get', 'post'], 'testmail', ['as' => 'testmail', 'uses' => 'Controller@testmail']);
+
 //Home
 Route::match(['get', 'post'], '/', ['as' => 'home', 'uses' => 'frontend\HomeController@home']);
 
 //About us
-Route::match(['get', 'post'], 'AboutUs', ['as' => 'AboutUs', 'uses' => 'frontend\AboutUsController@aboutus']);
+Route::match(['get', 'post'], 'aboutus', ['as' => 'aboutus', 'uses' => 'frontend\AboutUsController@aboutus']);
 
 //Contact
-Route::match(['get', 'post'], 'ContactUs', ['as' => 'ContactUs', 'uses' => 'frontend\ContactUsController@ContactUs']);
+Route::match(['get', 'post'], 'contactus', ['as' => 'contactus', 'uses' => 'frontend\ContactUsController@ContactUs']);
 
 //Services 
 Route::match(['get', 'post'], 'international', ['as' => 'international', 'uses' => 'frontend\InternationalserviceController@index']);

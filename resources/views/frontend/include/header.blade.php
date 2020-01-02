@@ -26,3 +26,10 @@
 	<link rel="stylesheet" href="{{ asset('public/frontend/css/colors.css') }}">
 	<!-- include the site stylesheet -->
 	<link rel="stylesheet" href="{{ asset('public/frontend/css/responsive.css') }}">
+	<link rel="stylesheet" href="{{ asset('public/frontend/css/toastr/toastr.min.css') }}">
+        
+        <style>
+            .is-invalid{
+                border-color: red !important; 
+            }
+        </style>
