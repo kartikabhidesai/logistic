@@ -31,20 +31,20 @@
                 <ul class="list-unstyled contact-list">
                     <li>
                         <span class="icon ti-map-alt"></span>
-                        <address>31 Ven Ho Van Chuong Street, <br>Ha Noi City, Viet Nam</address>
+                        <address>Plot No.2260/11, <br>Daxinamurti Society-1,<br>Near Fulwadi Chowk, Hilldrive,<br> Bhavanagar-364001</address>
                     </li>
                     <li>
                         <span class="icon ti-headphone-alt"></span>
                         <span class="tel">
-                            <a href="tel:113493346823">1-1349-334-6823</a>
-                            <a href="tel:282183347913">2-8218-334-7913</a>
+                            <a href="tel:9925395959">+91 9925 39 59 59</a>
+                            <a href="tel:9925405959">+91 9925 40 59 59</a>
                         </span>
                     </li>
                     <li>
                         <span class="icon ti-email"></span>
                         <span class="mail">
-                            <a href="mailto:info@nam-logistics.com">&#105;&#110;&#102;&#111;&#064;&#110;&#097;&#109;&#045;&#108;&#111;&#103;&#105;&#115;&#116;&#105;&#099;&#115;&#046;&#099;&#111;&#109;</a>
-                            <a href="mailto:office@nam-logistics.com">&#111;&#102;&#102;&#105;&#099;&#101;&#064;&#110;&#097;&#109;&#045;&#108;&#111;&#103;&#105;&#115;&#116;&#105;&#099;&#115;&#046;&#099;&#111;&#109;</a>
+                             <a href="mailto:info@nam-logistics.com">leo.global88@gmail.com</a>
+                            <a href="mailto:office@nam-logistics.com">exim.india890@gmail.com</a>
                         </span>
                     </li>
                 </ul>
@@ -91,8 +91,7 @@
     <section class="">
         <div class="" >
             <div class="">
-                <iframe style="width: 100%;" src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3672.3279247881283!2d72.521100014442!3d23.011728822509056!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x395e85d10985e8e9%3A0x414d09be4caf2ec9!2sTitanium%20City%20Center%20(A%20To%20H%20Block)!5e0!3m2!1sen!2sin!4v1577785861176!5m2!1sen!2sin" width="600" height="450" frameborder="0" style="border:0;" allowfullscreen=""></iframe>
-            </div>
+                <iframe style="width: 100%;" src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3705.447541324094!2d72.15812061441974!3d21.762933467686114!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x395f5a666d3ae61d%3A0x503adb49fea74f9c!2sDakshinamurti%20Society!5e0!3m2!1sen!2sin!4v1577974766502!5m2!1sen!2sin" width="600" height="450" frameborder="0" style="border:0;" allowfullscreen=""></iframe>
         </div>
     </section>
     <!-- map sec of the page end -->

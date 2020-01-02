@@ -40,20 +40,20 @@
                 <ul class="list-unstyled contactlist">
                     <li>
                         <span class="icon ti-map-alt"></span>
-                        <address>31 Ven Ho Van Chuong Street, <br>Ha Noi City, Viet Nam</address>
+                        <address>Plot No.2260/11, <br>Daxinamurti Society-1,<br>Near Fulwadi Chowk, Hilldrive,<br> Bhavanagar-364001</address>
                     </li>
                     <li>
                         <span class="icon ti-headphone-alt"></span>
                         <span class="tel">
-                            <a href="tel:113493346823">1-1349-334-6823</a>
-                            <a href="tel:282183347913">2-8218-334-7913</a>
+                            <a href="tel:9925395959">+91 9925 39 59 59</a>
+                            <a href="tel:9925405959">+91 9925 40 59 59</a>
                         </span>
                     </li>
                     <li>
                         <span class="icon ti-email"></span>
                         <span class="mail">
-                            <a href="mailto:info@nam-logistics.com">info@nam-logistics.com</a>
-                            <a href="mailto:office@nam-logistics.com">office@nam-logistics.com</a>
+                            <a href="mailto:info@nam-logistics.com">leo.global88@gmail.com</a>
+                            <a href="mailto:office@nam-logistics.com">exim.india890@gmail.com</a>
                         </span>
                     </li>
                 </ul>
