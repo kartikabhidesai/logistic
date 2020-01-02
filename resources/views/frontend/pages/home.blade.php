@@ -142,14 +142,15 @@
     <section class="tracking-sec bg-full" style="background-image: url({{ asset('public/frontend/images/img02.jpg')}})">
         <div class="container">
             <div class="row">
-                <div class="col-xs-12 col-sm-7 col-md-8">
+                <div class="col-xs-12">
                     <div class="txt-holder">
                         <h2 class="heading text-uppercase">MOVE TOGETHER</h2>
-                        <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisiuam est, qui dolorem ipsum quia dolor sit amet, consectetur, adipisci velit, sed quia non numquam eius modi tempora incidunt ut labore et dolore magnam aliquam quaerat voluptatem.</p>
-                        <a href="about.html" class="more">Find out more</a>
+                        <p>The supply chain relies on the efficient management of assets and logistics to get raw materials, parts and finished products from one place to another. When you’re sending goods around the world, it’s vital to use your transportation resources in the right way.Pairing the optimized usage of containers, vehicles and other assets with effective logistics execution including financial audit & settlement greatly improves operational efficiency, security and speed.</p>
+                        <p>We’ll explore the various modes of transportation in the global supply chain, how organizations can use them and why they matter. A shipping container is a metal box structure that can be easily moved between trucks, railcars, ocean-going vessels and other transportation, quickly and easily. All shipping containers are manufactured to common standards that will fit to specific chassis, railcars and other transportation.</p>
+                        <!--<a href="about.html" class="more">Find out more</a>-->
                     </div>
                 </div>
-                <div class="col-xs-12 col-sm-5 col-md-4">
+<!--                <div class="col-xs-12 col-sm-5 col-md-4">
                     <div class="track-holder bg-full" style="background-image: url({{ asset('public/frontend/images/img03.jpg') }})">
                         <form action="#" class="track-form">
                             <fieldset>
@@ -160,13 +161,13 @@
                             </fieldset>
                         </form>
                     </div>
-                </div>
+                </div>-->
             </div>
         </div>
     </section>
     <!-- Tracking sec of the page end -->
     <!-- News sec of the page -->
-    <section class="news-sec">
+<!--    <section class="news-sec">
         <div class="container">
             <div class="row">
                 <div class="col-xs-12">
@@ -175,7 +176,7 @@
             </div>
             <div class="row">
                 <div class="col-xs-12 col-sm-6">
-                    <!-- news block of the page -->
+                     news block of the page 
                     <div class="news-block">
                         <div class="img-holder">
                             <a href="blog-detail.html">
@@ -188,10 +189,10 @@
                             <p>Loconsectetur rem ipsum dolor sit amet, consectetur ipsum dolor sit ametadipisicing elit consectetur</p>
                         </div>
                     </div>
-                    <!-- news block of the page end -->
+                     news block of the page end 
                 </div>
                 <div class="col-xs-12 col-sm-6">
-                    <!-- news block of the page -->
+                     news block of the page 
                     <div class="news-block">
                         <div class="img-holder">
                             <a href="blog-detail.html">
@@ -204,10 +205,10 @@
                             <p>Lorem ipsum dolor sit amet, consectetur adipisicing elitipsum dolor sit amet, consectetur adipisicing elit</p>
                         </div>
                     </div>
-                    <!-- news block of the page end -->
+                     news block of the page end 
                 </div>
                 <div class="col-xs-12 col-sm-6">
-                    <!-- news block of the page -->
+                     news block of the page 
                     <div class="news-block">
                         <div class="img-holder">
                             <a href="blog-detail.html">
@@ -220,10 +221,10 @@
                             <p>Lorem ipsum adipisicing elit dolor sit amet, consectetur ipsum dolor sit amet, consectetur adipisicing elitadipisicing elit</p>
                         </div>
                     </div>
-                    <!-- news block of the page end -->
+                     news block of the page end 
                 </div>
                 <div class="col-xs-12 col-sm-6">
-                    <!-- news block of the page -->
+                     news block of the page 
                     <div class="news-block">
                         <div class="img-holder">
                             <a href="blog-detail.html">
@@ -236,30 +237,30 @@
                             <p>Lorem ipsum dolor sit amet, consectetur adipisicing elitipsum dolor sit amet, consectetur adipisicing elit</p>
                         </div>
                     </div>
-                    <!-- news block of the page end -->
+                     news block of the page end 
                 </div>
             </div>
         </div>
         <div class="img-icon"><img src="{{ asset('public/frontend/images/img08.png') }}" alt="image description" class="img-responsive"></div>
-    </section>
+    </section>-->
     <!-- News sec of the page end -->
     <!-- Call to action of the page -->
-    <section class="call-to-action">
+<!--    <section class="call-to-action">
         <div class="container">
             <div class="row">
                 <div class="col-xs-12 col-sm-9 col-md-8">
                     <h2 class="heading text-uppercase">WE'RE READY TO COLLECT YOUR PACKAGE</h2>
-                    <span>Uniquely redefine accurate architectures vis-a-vis front-end alignments.</span>
+                    <span>I can be of assistance, please do not hesitate to contact us.</span>
                 </div>
                 <div class="col-xs-12 col-sm-3 col-md-4">
-                    <a href="#" class="btn-primary text-center text-uppercase md-round">Get a quote</a>
+                    <a href="{{ route('contactus') }}" class="btn-primary text-center text-uppercase md-round">Get a quote</a>
                 </div>
             </div>
         </div>
-    </section>
+    </section>-->
     <!-- Call to action of the page end -->
     <!-- Counter holder of the page -->
-    <div class="counter-holder bg-full" style="background-image: url({{ asset('public/frontend/images/img09.jpg') }})">
+<!--    <div class="counter-holder bg-full" style="background-image: url({{ asset('public/frontend/images/img09.jpg') }})">
         <div class="container">
             <div class="row">
                 <div class="col-xs-12 col-sm-6 counter-block">
@@ -294,7 +295,7 @@
                 </div>
             </div>
         </div>
-    </div>
+    </div>-->
     <!-- Counter holder of the page end -->
     <!-- Contact sec of the page -->
     <div class="contact-sec container">

@@ -8,15 +8,15 @@
             </div>
             <div class="col-xs-12 col-sm-6 col-md-3">
                 <h3>About us</h3>
-                <p>Loruis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidant explidolor sit amet, consectetur, adipisci velit, oluptatem.</p>
+                <p>Leo Global Logistics providers face a highly competitive marketplace where success depends on being cost-competitive while accommodating rapidly changing customer demands. On-boarding new customers quickly and successfully requires teamwork from all areas of your company, industries and place.</p>
                 <!-- Socail network of the page -->
-                <ul class="list-unstyled socail-network">
+<!--                <ul class="list-unstyled socail-network">
                     <li><a href="#"><i class="social_facebook"></i></a></li>
                     <li><a href="#"><i class="social_googleplus"></i></a></li>
                     <li><a href="#"><i class="social_twitter"></i></a></li>
                     <li><a href="#"><i class="social_linkedin"></i></a></li>
                     <li><a href="#"><i class="social_pinterest"></i></a></li>
-                </ul>
+                </ul>-->
                 <!-- Socail network of the page end -->
             </div>
             <div class="col-xs-12 col-sm-6 col-md-3">
