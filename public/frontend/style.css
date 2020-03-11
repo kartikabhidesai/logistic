@@ -71,7 +71,9 @@ Theme URI: http://www.htmlbeans.com/html/amlogistic/
   display: block;
   clear: both;
 }
-
+.navbar{
+    min-height: 100px;
+}
 .ellipsis {
   white-space: nowrap;
   /* 1 */
@@ -576,7 +578,7 @@ a:hover, a:focus, a.active {
   content: "";
   z-index: -1;
   left: 0;
-  top: 0;
+  top: 10px;
   bottom: 0;
   right: 0;
   background: rgba(0, 0, 0, 0.5);
