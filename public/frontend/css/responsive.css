@@ -341,7 +341,7 @@
   }
   #header.header3 .logo {
     font-size: 20px;
-    margin: 0 10px 0 0;
+    margin: 0 10px 20px 0;
   }
   #header.header3 #nav {
     padding: 30px 15px 15px;
@@ -595,7 +595,7 @@
     display: block;
   }
   .abt-detail .mar .img-holder {
-    margin: 0 auto;
+    margin: 0 auto 20px auto;
   }
   .abt-detail .img-holder {
     width: 150px;
