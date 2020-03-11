@@ -97,6 +97,7 @@
   }
   .logo {
     font-size: 26px;
+    margin: 0 0 15px;
   }
   #nav ul > li {
     margin: 0 0 0 28px;
@@ -362,6 +363,10 @@
     width: 230px;
     margin: 0 auto;
     text-align: left;
+  }
+  .logo {
+    font-size: 26px;
+    margin: 0 0 30px;
   }
   #nav {
     position: absolute;
